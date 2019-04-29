@@ -1,2 +1,2 @@
-# jiaozn.github.io
-个人简介
+# http://www.jiaozn.com
+个人博客
