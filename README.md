@@ -1,6 +1,6 @@
 # 运维技术手册
 
-个人整理分享，不健全出多多提意见！
+自学资料，整理一份技术文档，供查阅和分享！
 
 
 # 系统基础
@@ -66,9 +66,46 @@ SVN、Git、jenkins
 
 
 * 介绍
+
 * 安装
+
 * 配置
+
 * 优化
+
+* 常用命令
+
+  > git init	*初始化*
+  >
+  > git status	*查看当前代码修改状态*
+  >
+  > git add 文件名	*把文件放入git的暂存区*
+  >
+  > git checkout 	*把代码从暂存区回滚到工作区*
+  >
+  > git commit -m "描述"	
+  >
+  > git reset --head HEAD^	*回滚到上一次*
+  >
+  > git reset --head ID	*回滚到指定位置*
+  >
+  > git log	*查看操作记录*
+  >
+  > git reflog	*查看所有的操作记录*
+  >
+  > ---
+  >
+  > **分支**
+  >
+  > git checkout -b branch_name	*创建并切换到分支*
+  >
+  > git checkout branch_name	*切换分支*
+  >
+  > git pull	*远程更新到本地*
+  >
+  > git push	*本地更新到远程*
+  >
+  > git merge branch_name	*合并分支*
 
 ## jenkins
 
