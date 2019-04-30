@@ -1,15 +1,82 @@
 # http://www.jiaozn.com
-个人博客 学习分享
+# 运维技术手册
 
-##系统基础
-CentOS、RedHat、ubuntu、Suse、AIX、Windows	（基础设置、内核调优、防火墙、路由、基础服务）  
-###CentOS
+个人整理分享，不健全出多多提意见！
 
-##基础服务
+
+# 系统基础
+
+CentOS、RedHat、ubuntu、Suse、AIX、Windows
+
+## CentOS
+
+* CentOS介绍
+* 版本
+* 内核
+* 基础命令
+* 系统优化
+
+
+# 基础服务
+
 FTP、DNS、DHCP、Mail
 
-##版本控制
+## DHCP
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+## DNS
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+## Mail
+
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+## SSH
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+
+# 版本控制
+
+
 SVN、Git、jenkins
+
+## SVN
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+## Git
+
+
+* 介绍
+* 安装
+* 配置
+* 优化
+
+## jenkins
+
+* 介绍
+* 安装
+* 配置
+* 优化
 
 ##WEB高可用
 Nginx、Redis、Tomcat、Apache、Haproxy、rabitMQ、mongdb、kafka、memcache IIS (php\Java) Web 性能、高可用、安全
